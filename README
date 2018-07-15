@@ -1,0 +1,6 @@
+How to Install
+
+- Save ta.lua to your Toribash/data/script folder.
+- In Toribash, go to Free Play and type /ls ta.lua. You should get a message like Toribash Assistant 0.x by dotproduct.
+- If this is the first time you've run it since 0.3, you will be asked to set up key bindings for mouseless control. Just follow the prompts in the chat box. You only have to do it once; after that, your settings are saved.
+- Start a new match by pressing Ctrl-N. The joint controls should appear. Have fun!
